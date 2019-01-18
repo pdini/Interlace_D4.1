@@ -10,3 +10,4 @@ main.pdf
 !.gitkeep
 *.synctex.gz
 *.out
+*.ps
